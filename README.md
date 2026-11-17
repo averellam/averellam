@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there! 🌷
 
-<!--
-**averellam/averellam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Averella**, a computer science senior at Medgar Evers College based in NYC.
 
-Here are some ideas to get you started:
+I'm passionate about learning, problem-solving, and exploring the creative side of technology, with a particular interest in UI/UX design.
+I enjoy turning ideas into something real and finding ways to make technology both functional and visually appealing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, building projects, and figuring things out one line of code at a time. :)
+
+**Fun Facts:**
+- I love art, museums, and anything that sparks creativity.
+- I'm a big fan of puzzles, Sudoku, and anything that challenges my brain.
+- I enjoy crafting, interior design, and giving spaces a little makeover.
+- My ideal morning starts with yoga, affirmations, and lots of caffeine🧟‍♀️.
+
